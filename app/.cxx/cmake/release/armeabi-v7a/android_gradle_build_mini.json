@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "E:\\Feodal\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "E:\\SDK\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "E:\\SDK\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Feodal\\app\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\Feodal\\app\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "pole-Release-armeabi-v7a": {
+      "artifactName": "pole",
+      "buildCommand": "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Feodal\\app\\.cxx\\cmake\\release\\armeabi-v7a\" pole",
+      "abi": "armeabi-v7a",
+      "output": "E:\\Feodal\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libpole.so",
+      "runtimeFiles": []
+    }
+  }
+}

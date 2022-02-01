@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle3_2_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle3_2_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle3_3_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle3_3_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle3_1_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle3_1_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle3_0_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle3_0_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_frame.xml.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\text_frame.xml"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color4.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\color4.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle2_3_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle2_3_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle1_3_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle1_3_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle1_2_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle1_2_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle1_3_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle1_3_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fox.jpg.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\fox.jpg"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle1_1_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle1_1_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle2_3_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle2_3_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle2_2_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle2_2_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pole2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\pole2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle4_2_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle4_2_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle1_0_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle1_0_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle2_1_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle2_1_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\color1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle4_3_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle4_3_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle2_0_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle2_0_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pole1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\pole1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle3_2_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle3_2_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle3_3_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle3_3_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle2_2_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle2_2_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\color2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle2_3_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle2_3_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle1_3_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle1_3_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pole5.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\pole5.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle1_2_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle1_2_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle1_0_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle1_0_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle1_1_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle1_1_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle3_0_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle3_0_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle4_1_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle4_1_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pole8.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\pole8.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle4_2_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle4_2_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle4_3_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle4_3_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle3_1_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle3_1_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle4_0_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle4_0_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pole7.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\pole7.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle3_2_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle3_2_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_parameters_game.xml.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\layout\\activity_parameters_game.xml"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle3_3_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle3_3_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pole0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\pole0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle2_1_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle2_1_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pole4.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\pole4.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color3.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\color3.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle2_0_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle2_0_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle3_1_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle3_1_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle4_0_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle4_0_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_field.xml.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\layout\\activity_field.xml"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle3_0_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle3_0_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle4_1_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle4_1_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grey.jpg.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\grey.jpg"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle4_3_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle4_3_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle4_2_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle4_2_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle4_1_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle4_1_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\color0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle4_0_0.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle4_0_0.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle1_2_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle1_2_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pole6.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\pole6.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle1_0_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle1_0_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle1_1_2.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle1_1_2.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle2_2_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle2_2_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle2_1_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle2_1_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transperent.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\transperent.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triangle2_0_1.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\triangle2_0_1.png"
+    },
+    {
+        "merged": "E:\\Feodal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pole3.png.flat",
+        "source": "E:\\Feodal\\app\\src\\main\\res\\drawable\\pole3.png"
+    }
+]

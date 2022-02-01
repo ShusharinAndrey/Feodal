@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Feodal/app/.cxx/cmake/release/x86",
+  "command": "E:\\SDK\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android26 --gcc-toolchain=E:/SDK/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/SDK/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dpole_EXPORTS -IE:/Feodal/app/src/main/cpp/src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\pole.dir\\pole.cpp.o -c E:\\Feodal\\app\\src\\main\\cpp\\pole.cpp",
+  "file": "E:\\Feodal\\app\\src\\main\\cpp\\pole.cpp"
+}
+]

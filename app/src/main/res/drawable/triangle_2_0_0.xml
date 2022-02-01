@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/triangle_0_0"
+    android:tint="@color/color_2"
+    android:alpha="@dimen/alpha_color"/>

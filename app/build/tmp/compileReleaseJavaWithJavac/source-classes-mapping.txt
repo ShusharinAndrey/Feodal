@@ -1,0 +1,23 @@
+com/example/feodal/TableViewer.java
+ com.example.feodal.TableViewer
+ com.example.feodal.TableViewer$1
+ com.example.feodal.TableViewer$IDTrianglePart
+ com.example.feodal.TableViewer$MyGestureListener
+ com.example.feodal.TableViewer$MyScaleGestureListener
+com/example/feodal/Field.java
+ com.example.feodal.Field
+com/example/feodal/ParametersGame.java
+ com.example.feodal.ParametersGame
+ com.example.feodal.ParametersGame$1
+ com.example.feodal.ParametersGame$2
+com/example/feodal/Pole.java
+ com.example.feodal.Pole
+com/example/feodal/BuildConfig.java
+ com.example.feodal.BuildConfig
+com/example/feodal/MainActivity.java
+ com.example.feodal.MainActivity
+com/example/feodal/Player.java
+ com.example.feodal.Player
+ com.example.feodal.Player$Color
+ com.example.feodal.Player$Corner
+ com.example.feodal.Player$PartTriangle

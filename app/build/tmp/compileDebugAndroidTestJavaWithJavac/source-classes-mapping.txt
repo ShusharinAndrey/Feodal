@@ -1,0 +1,4 @@
+com/example/feodal/test/BuildConfig.java
+ com.example.feodal.test.BuildConfig
+com/example/feodal/ExampleInstrumentedTest.java
+ com.example.feodal.ExampleInstrumentedTest

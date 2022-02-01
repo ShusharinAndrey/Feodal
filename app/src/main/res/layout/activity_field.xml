@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/field"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:importantForAutofill="yes"
+    tools:context=".Field">
+
+    <TextView
+        android:id="@+id/text_motion"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:autoSizeMaxTextSize="200sp"
+        android:autoSizeMinTextSize="1sp"
+        android:autoSizeTextType="uniform"
+        android:background="@drawable/text_frame"
+        android:text="@string/motion_text"
+        app:layout_constraintBottom_toTopOf="@+id/table"
+        app:layout_constraintEnd_toStartOf="@+id/motion"
+        app:layout_constraintHeight_percent="0.07"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_percent="0.6" />
+
+
+    <ImageView
+        android:id="@+id/motion"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="@+id/text_motion"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/text_motion"
+        app:layout_constraintTop_toTopOf="@+id/text_motion"
+        app:layout_constraintWidth_percent="0.2" />
+
+    <View
+        android:id="@+id/account1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/point_"
+        app:layout_constraintBottom_toTopOf="@+id/account3"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toStartOf="@+id/account2"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/table"
+        app:layout_constraintWidth_percent="0.2" />
+
+    <TextView
+        android:id="@+id/text_account1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:autoSizeMaxTextSize="200sp"
+        android:autoSizeMinTextSize="1sp"
+        android:autoSizeTextType="uniform"
+        android:background="@drawable/text_frame"
+        android:text="0"
+        app:layout_constraintBottom_toBottomOf="@+id/account1"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toStartOf="@+id/account1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/account1"
+        app:layout_constraintWidth_percent="0.15"
+        app:layout_optimizationLevel="chains" />
+
+    <TextView
+        android:id="@+id/text_account2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:autoSizeMaxTextSize="200sp"
+        android:autoSizeMinTextSize="1sp"
+        android:autoSizeTextType="uniform"
+        android:background="@drawable/text_frame"
+        android:text="0"
+        app:layout_constraintBottom_toBottomOf="@+id/account2"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/account2"
+        app:layout_constraintTop_toTopOf="@+id/account2"
+        app:layout_constraintWidth_percent="0.15"
+        app:layout_optimizationLevel="chains" />
+
+    <View
+        android:id="@+id/account2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/point_"
+        app:layout_constraintBottom_toTopOf="@+id/account4"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/account1"
+        app:layout_constraintTop_toBottomOf="@+id/table"
+        app:layout_constraintWidth_percent="0.2"
+        app:layout_optimizationLevel="chains" />
+
+    <View
+        android:id="@+id/account3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/point_"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toStartOf="@+id/account2"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/account1"
+        app:layout_constraintWidth_percent="0.2"
+        app:layout_optimizationLevel="chains" />
+
+    <TextView
+        android:id="@+id/text_account3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:autoSizeMaxTextSize="200sp"
+        android:autoSizeMinTextSize="1sp"
+        android:autoSizeTextType="uniform"
+        android:background="@drawable/text_frame"
+        android:text="0"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/account3"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toStartOf="@+id/account3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/account3"
+        app:layout_constraintWidth_percent="0.15"
+        app:layout_optimizationLevel="chains" />
+
+    <TextView
+        android:id="@+id/text_account4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:autoSizeMaxTextSize="200sp"
+        android:autoSizeMinTextSize="1sp"
+        android:autoSizeTextType="uniform"
+        android:background="@drawable/text_frame"
+        android:text="0"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/account4"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/account4"
+        app:layout_constraintTop_toTopOf="@+id/account4"
+        app:layout_constraintWidth_percent="0.15"
+        app:layout_optimizationLevel="chains" />
+
+    <View
+        android:id="@+id/account4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/point_"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/account3"
+        app:layout_constraintTop_toBottomOf="@+id/account2"
+        app:layout_constraintWidth_percent="0.2"
+        app:layout_optimizationLevel="chains" />
+
+<!--    <androidx.constraintlayout.widget.ConstraintLayout-->
+<!--        android:id="@+id/constraintLayout"-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintWidth_percent="0.9">-->
+
+        <com.example.feodal.TableViewer
+            android:id="@+id/table"
+            app:layout_constraintWidth_percent="0.9"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:overScrollMode="ifContentScrolls"
+            android:persistentDrawingCache="scrolling"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+<!--    </androidx.constraintlayout.widget.ConstraintLayout>-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+

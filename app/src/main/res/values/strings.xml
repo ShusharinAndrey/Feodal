@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Feodal</string>
+    <string name="motion_text">Ход(%1$s): %2$s</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6F6F6F</color>
+    <color name="Black">#80000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="white">#BFFFFFFF</color>
+    <color name="color_0">#0000FF</color>
+    <color name="color_1">#FF0000</color>
+    <color name="color_2">#FF6400</color>
+    <color name="color_3">#673AB7</color>
+    <color name="colorFirst">#BF0000FF</color>
+    <color name="colorFirstSelected">#850000FF</color>
+    <color name="colorFirstPale">#4D0000FF</color>
+    <color name="colorSecond">#BFFF0000</color>
+    <color name="colorSecondSelected">#85FF0000</color>
+    <color name="colorSecondPale">#4DFF0000</color>
+    <color name="colorThree">#BFFF6400</color>
+    <color name="colorThreeSelected">#85FF6400</color>
+    <color name="colorThreePale">#4DFF6400</color>
+    <color name="colorGreen">#BF00FF00</color>
+    <color name="colorViolet">#BF673AB7</color>
+    <color name="colorVioletSelected">#85673AB7</color>
+    <color name="colorVioletPale">#4D673AB7</color>
+    <color name="colorMollisFlavum">#8CFFFF96</color>
+    <color name="transparent">#0000B7FF</color>
+    <color name="continueText">#B300E4FF</color>
+    <color name="continueTextPressed">#80FFFFFF</color>
+    <color name="Button">#BF000000</color>
+    <color name="ButtonPressed">#BF535353</color>
+    <color name="white_table">#FFFFFF</color>
+    <color name="white_edit_text">#4DFFFFFF</color>
+    <color name="stroke_white">#636363</color>
+    <color name="stroke_color">#000000</color>
+    <color name="text_color_edit_text">#99000000</color>
+    <color name="colorGrey">#BF474747</color>
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_500">#9E9E9E</color>
+</resources>

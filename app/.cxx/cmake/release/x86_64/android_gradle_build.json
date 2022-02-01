@@ -1,0 +1,43 @@
+{
+  "stringTable": {
+    "0": "E:/Feodal/app/.cxx/cmake/release/x86_64",
+    "1": "--target=x86_64-none-linux-android26 --gcc-toolchain=E:/SDK/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/SDK/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dpole_EXPORTS -IE:/Feodal/app/src/main/cpp/src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "E:\\Feodal\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "E:\\SDK\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "E:\\SDK\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Feodal\\app\\.cxx\\cmake\\release\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\Feodal\\app\\.cxx\\cmake\\release\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "pole-Release-x86_64": {
+      "buildCommand": "E:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Feodal\\app\\.cxx\\cmake\\release\\x86_64\" pole",
+      "buildType": "release",
+      "toolchain": "2100103876",
+      "abi": "x86_64",
+      "artifactName": "pole",
+      "files": [
+        {
+          "src": "E:\\Feodal\\app\\src\\main\\cpp\\pole.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\Feodal\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64\\libpole.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "2100103876": {
+      "cppCompilerExecutable": "E:\\SDK\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
